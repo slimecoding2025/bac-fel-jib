@@ -557,7 +557,7 @@ export default function App() {
                   animate={{ opacity: 1, y: 0 }}
                   transition={{ duration: 0.6, delay: 0.06 }}
                 >
-                  <p className="mb-4 text-sm tracking-[0.18em] text-[#86f7d2]">OFFICIAL WEBSITE: NEXORAAGENCY.VERCEL.APP</p>
+                  <p className="mb-4 text-sm tracking-[0.18em] text-[#86f7d2]"><a href="https://nexora-agency-five.vercel.app/"> OFFICIAL WEBSITE</a></p>
                   <h1 className="text-5xl font-semibold leading-[0.95] tracking-tight text-[#f5f5f5] sm:text-6xl lg:text-7xl">
                     Bac Fel Jib AI
                   </h1>
