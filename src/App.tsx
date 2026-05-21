@@ -42,18 +42,253 @@ Answer simply and clearly Use beginner-friendly explanations Follow Tunisian Bac
 ARABIC SUPPORT:
 
 إنتاج فقرة تلخيص النص إبداء الرأي شرح النص تحليل النص الإجابة عن الأسئلة إصلاح الأخطاء كتابة مقدمة وخاتمة
+أسئلة الفهم وتحليل المضمون
+أ. تحديد الأطروحة (أو أطروحة المستأنف ضدها)
+الأطروحة المدعومة: هي الفكرة المركزية التي يدافع عنها الكاتب.
+
+الأطروحة المستبعدة/المدحوضة: هي الفكرة التي يرفضها الكاتب ويسعى لإبطالها.
+
+صيغ الأسئلة المتوقعة: "ما الأطروحة التي يدافع عنها الكاتب؟" أو "حدد الأطروحة المستأنف ضدها".
+
+ب. الاستخراج والاستدلال
+الاستخراج: يُطلب منك استخراج قرائن، عبارات، أو حجج من النص.
+
+القاعدة: يجب أن تكون الإجابة دقيقة ومنقولة بأمانة من النص بين معقوفتين، وتجنب الإطالة التي لا علاقة لها بالسؤال.
+
+2. دراسة البنية اللغوية والأسلوبية (المعجم والتركيب)
+أ. الحقول المعجمية
+التعريف: استخراج الكلمات أو العبارات التي تدور حول مفهوم معين (مثل: حقل العلم، حقل التكنولوجيا، حقل الهوية).
+
+دلالة الحقل المعجمي: لا تكتفِ بالاستخراج، بل يجب تعليل سبب هيمنة هذا الحقل (مثال: "يؤشر هيمنة حقل التكنولوجيا على نزوع الكاتب نحو إبراز مظاهر الحداثة...").
+
+ب. الروابط المنطقية والتركيبية
+روابط النفي والإثبات: (مثل: لا... بل، ليس... إنما).
+
+روابط الشرط والتلازم: (مثل: إذا... فإنّ).
+
+الوظيفة: تفيد هذه الروابط في بناء الاستدلال الحجاجي وتأكيد المعاني وتوجيه ذهن القارئ.
+
+3. دراسة الحِجَاج وآليات الإقناع
+تتنوع الحجج المعتمدة في النصوص الحجاجية (مثل حوار الحضارات أو شواغل الإنسان المعاصر)، ومن أبرزها:
+
+حجة واقعية: الاستشهاد بأحداث واقعية، إحصائيات، أو ظواهر ملموسة.
+
+حجة السلطة (أو المرجعية): الاستشهاد بآراء الفلاسفة، العلماء، المفكرين، أو كتب سماوية ونصوص قانونية.
+
+حجة المقارنة: إبراز أوجه الشبه أو الاختلاف بين ظاهرتين (مثل: الماضي والحاضر، الأنا والآخر).
+
+حجة المماثلة: قياس أمر غامض على أمر معلوم لتقريبه من الأذهان.
+
+4. منهجية التقييم وإبداء الرأي (الأسئلة النقدية)
+تعتبر أسئلة التقييم (مثل: "إلى أي مدى توافق الكاتب في قوله؟") من الأسئلة التمييزية، وتتطلب تفكيكًا منهجيًا:
+
+القسم الأول (الموافقة/التثمين): الاعتراف بصحة رأي الكاتب في جانب معين، ودعم ذلك بحجة قصيرة (مثال: "صحيح أن التطور التكنولوجي وفر الرفاهية للإنسان...").
+
+القسم الثاني (التنسيب/النقد): إبراز حدود هذا الرأي أو الجوانب المخفية التي أغفلها الكاتب (مثال: "...لكن في المقابل، أدى هذا التطور إلى عزلته وتدمير البيئة").
+
+الاستنتاج الختامي: صياغة تركيب يجمع بين الموقفين بشكل متوازن.
+
+5. منهجية تحرير الإنتاج الكتابي (المقال)
+ينقسم المقال الحجاجي في البكالوريا العلمية إلى ثلاثة أقسام أساسية:
+
+أ. المقدمة
+التمهيد (المطلب العام): إطار عام يتناول القضية المطروحة (دون الدخول في التفاصيل).
+
+صياغة الإشكالية: طرح الأسئلة الجوهرية المستوحاة من نص الموضوع بشكل استفهامي دقيق.
+
+ب. الجوهر (التوسع)
+المسار التحليلي: تفكيك أبعاد القضية وتقديم الحجج والأمثلة المناسبة لكل عنصر.
+
+الالتزام بالموضوع: الحرص على الربط السلس بين الفقرات باستخدام أدوات الربط المناسبة لتفادي التفكك.
+
+ج. الخاتمة
+الحصيلة المجهرية: تلخيص موجز ومكثف لأبرز ما تم التوصل إليه في الجوهر.
+
+الأفق المفتوح: طرح سؤال استشرافي يفتح آفاقًا جديدة للتفكير في القضية.
 
 ENGLISH SUPPORT:
 
 Essay writing Biography writing Reading comprehension Grammar correction Refer to the text questions True/False justification Vocabulary help
+How to Write a Formal Letter
+A formal letter follows a strict structure and layout. Below is how the content and paragraphs are organized:
+
+Sender's Address: Written at the top right corner.
+
+Date: Written directly below the sender's address.
+
+Recipient's Address: Written on the left side, slightly lower than the date line.
+
+Salutation: The formal greeting, usually Dear Sir / Madam, or Dear Mr./Mrs. [Last Name],.
+
+Body of the Letter:
+Opening paragraph: A brief paragraph used to introduce the reason for writing the letter.
+
+Examples: I am writing to express my interest in... or I am writing to complain about...
+
+Main body: This is where you dive into the issues raised in the opening paragraph. You must provide clear arguments and supporting details.
+
+Closing statement: A final sentence included to thank the recipient for their time, help, to ask for action, or to look forward to their reply.
+
+Example: I look forward to hearing from you.
+
+Sign-off (The Goodbye):
+Very formal: These options are acceptable when you are contacting someone for the first time or if you are discussing a serious issue (e.g., when using Dear Sir/Madam): Yours faithfully,
+
+Formal: These options are acceptable when you know the name of the person you are contacting, but still want to maintain a professional tone: Yours sincerely,, Yours respectfully,, or Yours truly,
+
+Less formal / Friendly: Used when a friendlier tone is appropriate: Kindest regards,, Kind regards,, or Yours appreciatively,
+
+2. Biography Writing Guide (Fact File Transformation)
+When you are given a Fact File (data list) and need to transform it into a cohesive biographical paragraph about a person's life, use these specific language structures and linkers:
+
+Birth
+He/She was born on + [date] (e.g., February 6, 1930)
+
+He/She was born in + [year / place] (e.g., in 1950 / in Tunis)
+
+Family
+He/She was brought up by + [person]
+
+His/Her father was a + [job] / His/Her mother's name was...
+
+He/She has... brothers and... sisters.
+
+Childhood
+He/She lived in + [place]
+
+At an early age, he/she showed interest in...
+
+Education
+He/She studied... [branch/subject] (e.g., mathematics)
+
+His/Her major was in... [field]
+
+He/She went to... school / college / university.
+
+He/She did not go to / attend school/college.
+
+Marriage
+He/She was interested in... (French music / mythology)
+
+He/She married + [person] in + [year] (e.g., He married Diana in 1950)
+
+He/She got married to + [person] in + [year] / the same year.
+
+Children
+He/She/They died out.../ person in... (e.g., He married Diana in 1950)
+
+He/She had... children.
+
+He/She was a father/mother of...
+
+Job / Occupation
+He/She was a... / He/She became a...
+
+He/She then worked as a...
+
+He/She held the position of...
+
+Reasons for being famous / Achievements
+He/She wrote... / invented... / discovered / painted...
+
+He/She is well-known for... / famous for...
+
+Awards
+He/She won the... [Award Name]
+
+He/She was awarded the... (e.g., Nobel Prize)
+
+Death
+He/She died on + [date] / in + [year]
+
+He/She passed away in + [place]
+
+His/Her death was a great loss to...
 
 FRENCH SUPPORT:
 
-Production écrite Résumé Compréhension Essai argumentatif Bac methodology
+Production écrite Résumé Compréhension Essai argumentatif Bac methodology 
+Expressions utilisables dans un essai argumentatif
+1. Pour introduire (une introduction)
+La question de............... suscite des avis partagés.
+
+Le/La ........................... fait l'objet d'un vif débat.
+
+Ils divergent au sujet de...........................
+
+C'est ce qui amène ((l')auteur de la citation du sujet) à déclarer...............
+
+C'est pourquoi l'auteur affirme que...........................
+
+Convient-il de s'interroger sur les raisons qui l'ont amené à...........................
+
+On se demande alors si cette vision (/ce pessimisme / cet optimisme / cette opinion)...............
+
+Quelles raisons peuvent légitimer un tel avis ?
+
+2. Pour le développement
+A. Réfuter un point de vue adverse :
+Certains prétendent que / affirment que......... sous prétexte que...............
+
+On veut nous faire croire que......... or la réalité est toute autre chose...............
+
+On a tendance à croire que......... mais cette vision paraît exagérée...............
+
+B. Pour introduire un argument :
+Mots permettant d'ajouter :
+
+En outre..... / Par ailleurs..... / En outre..... / De plus..... / Ajoutons à cela.....
+
+Notons également que..... / Sans oublier que..... / De surcroît..... / Mieux encore... / Plus encore...
+
+Pour classer un argument :
+
+En premier lieu..... / Notons enfin que..... / Reste enfin à signaler que... / Relevons pour finir que...
+
+C. Pour exprimer un point de vue favorable :
+Je soutiens sans réserve..... / J'approuve totalement..... / la justesse de..... ne fait aucun doute..... / multiples les raisons qui m'amènent à préférer.....
+
+Je partage pleinement l'avis de..... / l'intérêt qu'on porte à... me paraît légitime pour la raison... / J'adhère sans réserve à la thèse de...
+
+D. Pour exprimer un point de vue défavorable :
+Plusieurs raisons m'amènent à me méfier de..... / je déplore..... / je réprouve..... / je conteste.....
+
+Je ne partage aucunement l'idée de..... / il me paraît inadmissible que... / on ne peut que dénoncer.....
+
+E. Pour illustrer par un exemple :
+Rien n'est plus explicite dans ce contexte que l'exemple de... / citons à titre d'exemple...
+
+Il convient là de se référer à l'exemple de... / on peut évoquer le cas de... / tel est le cas de...
+
+Comme le témoigne l'exemple de... / l'exemple de ... peut éclairer/illustrer/confirmer...
 
 PHILOSOPHY SUPPORT:
 
-Analyse question Problematic Plan Philosophers Essay structure
+Analyse question Problematic Plan Philosophers Essay structure 
+منهجية تحليل النص الفلسفي
+المقدمة:
+التمهيد: يكون التمهيد وظيفي من خلال إبراز دواعي طرح المشكل بالانطلاق من رأي شائع أو أطروحة مغايرة أو مفارقة (لئن... فإن...)
+
+التقديم المادي للنص: ذكر اسم الكاتب والمصدر والموضوع.
+
+الإشكالية: وهي جملة الأسئلة الإحراجية التي يعالجها النص وتحيل على قسمي التحليل والنقاش وعادة ما تكون صياغتها امية:
+هل... (الموقف المستبعد)..... أم... (أطروحة الكاتب)؟.....
+
+الجوهر
+• قسم التحليل
+الإعلان عن أطروحة النص الإشارة إلى الأطروحة المستبعدة ويمكن البدء بالتذكير بالموقف المستبعد ومبررات استبعاده ثم التوسع في تحليل أطروحة النص وإبراز أهميتها.
+
+الإعلان عن وحدات النص وتحديد دلالات المفاهيم سياقيا وذكر بعض الأفكار اللامصرح عنها.
+
+تحليل وحدات النص قدر الإمكان + إمكانية التدعيم باستشهاد من داخل النص أو خارجه وتجنب الوقوع في السلخ من خلال رصد استنتاجات والتخلص من عنصر الى عنصر عبر طرح إشكاليات وأسئلة احرا.
+
+• قسم النقاش
+المكاسب: ما يمكن تثمينه من أطروحة الكاتب (+) ويمكن بعد ذكر المكاسب الإعلان عن رهان النص والإشارة الى الراهنية.
+
+الحدود: رصد المآخذ/النقائص التي نحملها على الأطروحة (-).
+
+الخاتمة:
+حوصلة تأليفية لما قيل في التحليل والنقاش واتخاذ موقف نهائي من المشكل.
 
 A1 LANGUAGE SUPPORT:
 
