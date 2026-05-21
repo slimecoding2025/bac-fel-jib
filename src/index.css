@@ -1,0 +1,118 @@
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700&family=Geist:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap");
+
+@import "tailwindcss";
+
+:root {
+  color-scheme: dark;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  background: #050505;
+}
+
+.animated-grid {
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.05) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.05) 1px, transparent 1px);
+  background-size: 42px 42px;
+  mask-image: radial-gradient(circle at center, black 38%, transparent 88%);
+  animation: gridShift 16s linear infinite;
+}
+
+.floating-orb {
+  position: absolute;
+  border-radius: 9999px;
+  filter: blur(40px);
+  opacity: 0.45;
+}
+
+.orb-a {
+  top: 8%;
+  left: 12%;
+  height: 180px;
+  width: 180px;
+  background: rgba(57, 255, 136, 0.35);
+  animation: drift 9s ease-in-out infinite;
+}
+
+.orb-b {
+  top: 34%;
+  right: 9%;
+  height: 220px;
+  width: 220px;
+  background: rgba(0, 240, 255, 0.26);
+  animation: drift 12s ease-in-out infinite;
+}
+
+.orb-c {
+  bottom: 9%;
+  left: 42%;
+  height: 160px;
+  width: 160px;
+  background: rgba(57, 255, 136, 0.25);
+  animation: drift 10s ease-in-out infinite;
+}
+
+.typing-cursor {
+  display: inline-block;
+  width: 8px;
+  height: 14px;
+  background: rgba(0, 240, 255, 0.8);
+  animation: blink 1s step-end infinite;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(0, 240, 255, 0.4) rgba(255, 255, 255, 0.05);
+}
+
+*::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+*::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.04);
+}
+
+*::-webkit-scrollbar-thumb {
+  border-radius: 9999px;
+  background: linear-gradient(rgba(57, 255, 136, 0.7), rgba(0, 240, 255, 0.8));
+}
+
+@keyframes gridShift {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(42px);
+  }
+}
+
+@keyframes drift {
+  0%,
+  100% {
+    transform: translate3d(0, 0, 0);
+  }
+  50% {
+    transform: translate3d(0, -16px, 0);
+  }
+}
+
+@keyframes blink {
+  0%,
+  50% {
+    opacity: 1;
+  }
+  51%,
+  100% {
+    opacity: 0;
+  }
+}
