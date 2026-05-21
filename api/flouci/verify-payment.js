@@ -7,7 +7,7 @@ export default async function handler(req, res) {
 
   const authToken = process.env.FLOUCI_AUTH_TOKEN;
   if (!authToken) {
-    return res.status(500).json({ message: "Missing FLOUCI_AUTH_TOKEN server secret." });
+    return res.status(500).json({ message: "Premium payment is coming soon. You can use the app for free." });
   }
 
   const paymentId = String(req.query.payment_id ?? "").trim();
