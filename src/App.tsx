@@ -293,6 +293,315 @@ Analyse question Problematic Plan Philosophers Essay structure
 A1 LANGUAGE SUPPORT:
 
 Italian German Russian Turkish Chinese
+for exemple this is for german:
+Vocabulary & Grammar: Festivals, Dates, and Prepositions
+1. Wortschatz (Vocabulary)
+Die Ostern – die Weihnachten – die Verlobung – die Hochzeit – der Geburtstag – das Neujahr – der Muttertag – der Valentinstag – der Geburtstag
+
+Glückwünsche: Frohes Opferfest! / Frohe Weihnachten! Schönes Neujahr! / Frohe Ostern! / Alles Gute zum Geburtstag! / Herzlichen Glückwunsch zum Geburtstag! Herzliche Glückwünsche zur Verlobung! zur Hochzeit!
+
+feiern: Hans feiert seinen 18. Geburtstag.
+
+eine Party geben / machen
+
+die Einladung annehmen / akzeptieren
+
+die Einladung ablehnen / nicht akzeptieren
+
+die Einladung schreiben / schicken / bekommen / erhalten
+
+einladen: Ich lade dich zur Geburtstagsparty ein.
+
+Vorbereitungen für die Party machen: * die Geschenke – die Kamera – das Handy – der Ball – die Armbanduhr – der Computer – der MP3-Player – die Blumen – das Buch – die Schokolade – die Gitarre – der Werkzeugkasten – das Fahrrad
+
+Die Party beginnt um 18 Uhr.
+
+Die Party fängt um 19 Uhr an. (anfangen = beginnen)
+
+Party stattfinden: Die Party findet im Garten statt.
+
+2. Grammatik (Grammar)
+Die Ordinalzahlen (Ordinal Numbers)
+Wann sind Sie geboren? (Datum)
+
+Ich bin am 3. (dritten) Mai 1998 geboren.
+
+Sie ist am 1. (ersten) Oktober 1997 geboren.
+
+Er ist am 25. (fünfundzigsten) Juli 1996 geboren.
+
+Sie kommt am 30. (dreißigsten) Juli in Tunesien an.
+
+Vom 2. (zweiten) bis zum 7. (siebten) Juli mache ich Urlaub auf Mallorca.
+
+Von 2014 bis 2016 haben sie Deutsch gelernt.
+
+Wo sind Sie geboren? Ich bin in Tunis geboren. (Ort)
+
+Die Ordinalzahlen: Die Regel (The Rules)
+(von 1 bis 19) → am + Zahlwort + ten (z.B. dritten)
+
+(von 20 bis 31) → am + Zahlwort + sten
+
+vom ... bis zum ... → vom + Zahlwort + ten + bis zum + Zahlwort + ten (1 bis 19)
+
+vom ... bis zum ... → vom + Zahlwort + sten + bis zum + Zahlwort + sten (20 bis 31)
+
+Die 2 Präpositionen (temporal)
+von ... bis ... → von 2015 bis 2017
+
+am + Datum: am 3. Januar
+
+am + Wochentage: am Montag, am Morgen, am Freitagnachmittag
+
+am + Tageszeiten: am Morgen, am Abend, am Nachmittag (Ausnahme: in der Nacht)
+
+Sentence Structure & Case Rules (Dativ / Akkusativ)
+Peter feiert seinen Geburtstag, deshalb schenke ich Peter ein Geschenk.
+
+Adverb + Verb + Subjekt
+
+Hans bastelt gern, deshalb braucht er einen Werkzeugkasten.
+
+4. Verben mit Dativ und Akkusativobjekt
+wünschen, schreiben, kaufen, schenken, schicken, senden, erklären, zeigen, empfehlen, bringen, mitbringen, geben
+
+Ich schenke Ahmed einen Ball.
+
+Ahmed: Wem? [Person] → Nominativ (Person): Wer schenkt Ahmed einen Ball?
+
+einen Ball: Was? [Sache] → Akkusativ (Sache): Was schenkt du schenken Sie Ahmed?
+
+Dativ: Wem schenken Sie / schenkst du einen Ball?
+
+Ich schenke ihm einen Ball.
+
+Personalpronomen (Person, Sing, Maskulin im Dativ)
+Nominativ → Dativ
+
+ich → mir
+
+du → dir
+
+er/es → ihm
+
+sie → ihr
+
+wir → uns
+
+ihr → euch
+
+sie → ihnen
+
+Sie (Pl.) → Ihnen
+
+5. Die Personalpronomen im Akkusativ
+Nominativ → Akkusativ
+
+ich → mich
+
+du → dich
+
+er → ihn
+
+sie → sie
+
+es → es
+
+wir → uns
+
+ihr → euch
+
+sie → sie
+
+Sie (Pl.) → Sie
+
+6. Verben mit Akkusativ ergänzung:
+sehen, einladen, abholen,Core brauchen, suchen, besuchen, betrauen, anrufen, treffen, lieben, bringen, kaufen
+
+Hans trifft Karl im Cafe.
+
+Wer? (Person) → Hans trifft Karl im Cafe.
+
+Wen? (Person) → Wen trifft Karl im Cafe? / Wen trifft Hans im Cafe? → Hans trifft ihn im Cafe.
+
+Verben mit Dativ ergänzung:
+passen, gefallen, helfen, stehen, gratulieren: Ich helfe Gerda gern.
+
+Wie geht es dir? Es geht mir gut.
+
+Der Anzug passt Karl gut. stehen = passen
+
+Der Film gefällt mir nicht.
+
+Er gratuliert Hans und Anja zur Hochzeit.
+
+Transport & Directions
+das Schiff, der Lastkraftwagen, die U-Bahn, die S-Bahn.
+
+nehmen + Akkusativ: Ich nehme den Bus.
+
+Er nimmt das Schiff / Sie nimmt die S-Bahn.
+
+fahren + mit + Dativ: Ich fahre mit dem Zug.
+
+Wir fahren mit der S-Bahn / Du fährst mit dem Flugzeug.
+
+Die Verkehrsmittel / Vorteile: schnell, bequem, sicher, billig.
+
+Nachteile: langsam, unbequem, unsicher, teuer.
+
+die Fahrt = die Reise ; die Abfahrtszeit, das Gleis.
+
+die Ankunftszeit, der Fahrplan, die Dauer, das Ticket = die Fahrkarte (einfach/ hin und zurück) reisen, fliegen, fahren.
+
+einsteigen: Er steigt in den Bus ein.
+
+aussteigen: Er steigt aus dem Bus aus.
+
+umsteigen: Man muss in Frankfurt umsteigen.
+
+abfahren: Der Zug fährt um 9 Uhr von Tunis ab.
+
+ankommen: Der Zug kommt um 11 Uhr in Sousse an.
+
+der Schalter: Hans kauft das Ticket am Schalter.
+
+Mit der Kreditkarte bezahlen / bar bezahlen.
+
+Landern mit Artikel:
+Ich komme aus dem Irak / aus dem Iran (Maskulin)
+
+Ich komme aus der Türkei / der Schweiz (Feminin)
+
+Ich komme aus den USA / den Niederlanden (Plural)
+
+Er fährt in den Irak / in den Iran.
+
+Er fährt in die Türkei / die Schweiz.
+
+Er fährt in die USA / die Niederlande.
+
+Landern ohne Artikel:
+Ich komme aus Frankreich / Deutschland / Tunesien.
+
+Ich fahre nach Tunesien / Italien / England.
+
+Die Stadt: das Dorf, der Fleischer, die Metzgerei, die Post, die Bank, die Bäckerei, die Buchhandlung, die Bibliothek, die Apotheke, die Konditorei, die Universität, das Kino, das Theater, das Museum, das Rathaus, das Schwimmbad, das Restaurant, das Gymnasium, das Arbeitsamt, der Bahnhof, der Flughafen, der Seehafen, der Kiosk, der Markt, der Stadtpark, der Marktplatz.
+
+Die Wegbeschreibung:
+Gehen die erste Straße links.
+
+Gehen die zweite Straße rechts. / Gehen Sie der Berliner Straße entlang. / Gehen Sie geradeaus am Park vorbei.
+
+Gehen Sie bis zur Kreuzung. / An der Ampel biegen links ab / An der Kreuzung biegen rechts ab.
+
+Die Grammatik: Wie Weit ist es von Tunis nach Sfax?
+Wie viele Kilometer sind es von Béja nach Tunis?
+
+Wann fährt der Zug von Tunis ab?
+
+Wann kommt der Zug in Gabès an?
+
+Articles, Prepositions & Questions
+Definite Articles (Bestimmter Artikel)
+Maskulin (der)
+
+Nominativ: der Mann
+
+Akkusativ: den Mann
+
+Dativ: dem Mann
+
+Neutrum (das)
+
+Nominativ: das Kind
+
+Akkusativ: das Kind
+
+Dativ: dem Kind
+
+Feminin (die)
+
+Nominativ: die Frau
+
+Akkusativ: die Frau
+
+Dativ: der Frau
+
+Plural (die)
+
+Nominativ: die Bücher
+
+Akkusativ: die Bücher
+
+Dativ: den Büchern
+
+Indefinite Articles (Unbestimmter Artikel)
+Maskulin (ein)
+
+Nominativ: ein Mann
+
+Akkusativ: einen Mann
+
+Dativ: einem Mann
+
+Neutrum (ein)
+
+Nominativ: ein Kind
+
+Akkusativ: ein Kind
+
+Dativ: einem Kind
+
+Feminin (eine)
+
+Nominativ: eine Karte
+
+Akkusativ: eine Karte
+
+Dativ: einer Karte
+
+Prepositions Rules
+3. Präpositionen mit Dativ: aus, bei, mit, nach, seit, von, zu.
+
+4. Präpositionen mit Akkusativ: um, für, durch, gegen, ohne, gegen, um.
+
+Wechselpräpositionen: an, in, auf, über, unter, hinter, vor, zwischen, neben.
+
+5. Wechselpräpositionen mit Dativ (Situation/Vergangenheit):
+
+Wo? Studium: Ich studiere an der Universität (Dativ).
+
+Wo studierst du? an der Universität.
+
+Places Vocabulary (Organized by gender)
+der: Bäcker, Fleischer, Frisör.
+
+das: Restaurant, Kino, Hotel, Apotheke, Supermarkt, Park, Garten, Deko, Theater, Bistro, Bibliothek, Krankenhaus.
+
+die: Marktplatz, Theke, See, Strand, Meer, Universität, Wand, Mauer.
+
+der: Bahnhof, Post, Bank, Insel, Djerba, Mallorca, Berg, Arbeitsamt, Gymnasium.
+
+6. Wechselpräpositionen mit Akkusativ (Direktions/Richtung/ Wohin? / Movement):
+
+Ich gehe in das / ins Theater.
+
+Wohin gehen Sie? in das Theater.
+
+ans = an + das ; ins = in + das
+
+Interrogative Pronouns (Welch- / Dies-)
+7. Das Interrogativpronomen "Welch-" im Akkusativ
+
+M- Welchen Zug nehmen Sie? → Den um 11 Uhr 30.
+
+F- Welche Hose kaufst du? → Die für 20 Euro kostet.
+
+N- Welches Auto suchst du? → Das schnell ist.
+
+Pl- Welche Bücher liest sie? → Die interessant sind.
 
 The AI personality must feel:
 
