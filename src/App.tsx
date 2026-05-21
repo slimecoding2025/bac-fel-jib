@@ -310,8 +310,8 @@ export default function App() {
             "HTTP-Referer": "https://nexora-agency-five.vercel.app/",
             "X-Title": "Bac Fel Jib AI",
           },
-          body: JSON.stringify({
-            model: "deepseek/deepseek-v4-flash:free",
+body: JSON.stringify({
+            model: "poolside/laguna-m.1:free",
             stream: true,
             messages: requestMessages,
             temperature: 0.5,
