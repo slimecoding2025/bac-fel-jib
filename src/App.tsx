@@ -307,7 +307,7 @@ export default function App() {
           headers: {
             Authorization: `Bearer ${openRouterApiKey}`,
             "Content-Type": "application/json",
-            "HTTP-Referer": "https://nexoraagency.vercel.app",
+            "HTTP-Referer": "https://nexora-agency-five.vercel.app/",
             "X-Title": "Bac Fel Jib AI",
           },
           body: JSON.stringify({
