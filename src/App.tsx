@@ -1245,7 +1245,7 @@ body: JSON.stringify({
                   className="rounded-3xl border border-[#00f0ff]/35 bg-[linear-gradient(150deg,rgba(0,240,255,0.12),rgba(57,255,136,0.1),rgba(15,15,18,0.8))] p-6 shadow-[0_0_35px_rgba(0,240,255,0.2)] backdrop-blur-2xl"
                 >
                   <p className="text-sm text-[#9defff]">PREMIUM PLAN</p>
-                  <p className="mt-2 text-3xl font-semibold">29 TND</p>
+                  <p className="mt-2 text-3xl font-semibold">29 TND(this options is coming soon you can use Bac fel jib for free)</p>
                   <div className="mt-5 space-y-3 text-sm text-[#e4e4ea]">
                     {[
                       "Advanced methodology",
